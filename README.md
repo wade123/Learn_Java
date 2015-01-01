@@ -8,7 +8,7 @@ Simple Java Practice Codes
  
 Started on Jan. 01 2015
 
-*Some useful links to refer*,**Some useful links to refer**:
+*Some useful links to refer*:
 
   1. [15 exercises to learn a new language](http://technish.blogspot.in/2008/01/15-exercises-to-learn-new-programming.html);
   2. [[Quora]frequently asked interview questions for Java Engineers](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers);
